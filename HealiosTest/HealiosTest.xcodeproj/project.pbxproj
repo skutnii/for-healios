@@ -91,6 +91,7 @@
 		225725AE26E1290200089B99 /* PostListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostListViewModel.swift; sourceTree = "<group>"; };
 		225725B026E1291300089B99 /* PostDetailsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailsViewModel.swift; sourceTree = "<group>"; };
 		225725B526E134E300089B99 /* PostDetailsViewModelImplTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailsViewModelImplTests.swift; sourceTree = "<group>"; };
+		225725B726E210B100089B99 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +115,7 @@
 		2257253E26E0E2C700089B99 = {
 			isa = PBXGroup;
 			children = (
+				225725B726E210B100089B99 /* README.md */,
 				2257256226E0E4EE00089B99 /* easyasync */,
 				2257254926E0E2C700089B99 /* HealiosTest */,
 				2257259626E127DB00089B99 /* HealiosTestUnitTests */,
