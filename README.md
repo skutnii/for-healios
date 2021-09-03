@@ -1,4 +1,5 @@
-This is a test assignment written for a job interview.
+This is a test assignment written for a job interview. 
+For the original assignment please refer to HEA-HMR-iOSEngineer-Test.pdf
 
 I used my own implementation of JavaScript-style promises in Swift
 (https://github.com/skutnii/easyasync) to deal with asynchronous
