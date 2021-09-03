@@ -5,7 +5,7 @@ I used my own implementation of JavaScript-style promises in Swift
 (https://github.com/skutnii/easyasync) to deal with asynchronous
 downloads. This small library is battle tested.
 
-For the UI, I used a mix of SwiftUI and UIKit, in particular,
+For the UI, I used a mix of SwiftUI and UIKit. In particular,
 UINavigationController was used for navigation: this is because using
 NavigationView/NavigationLink for master/detail interface tends to
 result in eager initialization of everything instead of just the
